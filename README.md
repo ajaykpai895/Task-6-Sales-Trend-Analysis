@@ -114,34 +114,6 @@ Task-6-Sales-Trend-Analysis/
 | Q18 | Create indexes on `order_date` and `category` for performance |
 
 ---
-
-## 📸 Screenshots
-
-| # | Screenshot | Query |
-|---|---|---|
-| 1 | ![Image1](screenshots/Image1.png) | Q1 — View all data |
-| 2 | ![Image2](screenshots/Image2.png) | Q2 — Total records & date range |
-| 3 | ![Image3](screenshots/Image3.png) | Q3 — Monthly revenue & order volume |
-| 4 | ![Image4](screenshots/Image4.png) | Q4 — Monthly revenue for 2024 |
-| 5 | ![Image5](screenshots/Image5.png) | Q5 — Yearly revenue summary |
-| 6 | ![Image6](screenshots/Image6.png) | Q6 — Top 3 months by revenue |
-| 7 | ![Image7](screenshots/Image7.png) | Q7 — Top 5 months by order volume |
-| 8 | ![Image8](screenshots/Image8.png) | Q8 — COUNT(*) vs COUNT(DISTINCT) |
-| 9 | ![Image9](screenshots/Image9.png) | Q9 — Monthly revenue by category |
-| 10 | ![Image10](screenshots/Image10.png) | Q10 — Total revenue by category |
-| 11 | ![Image11](screenshots/Image11.png) | Q11 — NULL check in key columns |
-| 12 | ![Image12](screenshots/Image12.png) | Q12 — COALESCE for NULL-safe revenue |
-| 13 | ![Image13](screenshots/Image13.png) | Q13 — Quarter-wise revenue |
-| 14 | ![Image14](screenshots/Image14.png) | Q14 — Month-over-Month revenue change |
-| 15 | ![Image15](screenshots/Image15.png) | Q15 — Best performing month per year |
-| 16 | ![Image16](screenshots/Image16.png) | Q16 — Year-over-Year growth % |
-| 17 | ![Image17](screenshots/Image17.png) | Q17 — Create & query monthly view |
-| 18 | ![Image18](screenshots/Image18.png) | Q18 — Create indexes & verify |
-| 19 | ![Image19](screenshots/Image19.png) | Database structure / table schema |
-| 20 | ![Image20](screenshots/Image20.png) | DB Browser overview |
-
----
-
 ## 🚀 How to Run
 
 1. Install [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
